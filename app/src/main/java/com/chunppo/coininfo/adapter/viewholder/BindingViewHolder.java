@@ -1,4 +1,4 @@
-package com.chunppo.binance.adapter.viewholder;
+package com.chunppo.coininfo.adapter.viewholder;
 
 import android.databinding.DataBindingUtil;
 import android.support.v7.widget.RecyclerView;
